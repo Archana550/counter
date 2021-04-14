@@ -1,0 +1,36 @@
+
+
+.outer-div{
+    display:grid;
+    justify-content: center;
+   padding:50px 50px;
+    border:5px solid blue;
+    width:fit-content;
+    background-color: rgba(150, 180, 243, 0.836);
+}
+
+
+
+.fa-facebook{
+color:white;
+font-size: 100px;
+font-weight: bolder;
+
+}
+.fb{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    height:100px;
+    width:100px;
+    padding:50px 50px 50px 50px;
+    border-radius: 50%;
+    background-color:rgba(23, 99, 212, 0.89);
+    box-shadow: 2px 2px 15px rgb(23, 91, 218);
+    
+}
+#counter,#follower{
+    font-family:   cursive;
+    color:rgba(23, 99, 212);
+
+}
